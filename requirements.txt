@@ -1,0 +1,7 @@
+opencv-python
+numpy
+paho-mqtt
+flask
+imutils
+# Optional for advanced detection:
+ultralytics   # only if you want YOLOv8 detection (large, needs GPU or CPU time)
